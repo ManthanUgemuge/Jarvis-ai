@@ -1,5 +1,5 @@
 # JarvisAi
-
+A Simple Web Application using different operators for Decision Making.
 
 ## Tech Stacks Used
 
