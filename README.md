@@ -12,7 +12,7 @@ A Simple Web Application using different operators for Decision Making.
 ```
 https://github.com/ManthanUgemuge/JarvisAi.git
 ```
-- Run Directly - https://manthanugemuge.github.io/JarvisAi/
+- Run Directly - [JarvisAi]https://manthanugemuge.github.io/JarvisAi/
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
