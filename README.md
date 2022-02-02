@@ -13,7 +13,7 @@ A Simple Web Application using different operators for Decision Making.
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/JarvisAiTasker.git
+https://github.com/ManthanUgemuge/Jarvis_ai.git
 ```
 - Run Directly - [JarvisAi](https://manthanugemuge.github.io/JarvisAiTasker/)
 
