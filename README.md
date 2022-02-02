@@ -1,5 +1,7 @@
 # Jarvis Ai Task Organizer
 A Simple Web Application using different operators for Decision Making.
+- Basic Task 
+
 
 ## Tech Stacks Used
 
