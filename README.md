@@ -1,4 +1,4 @@
-# Jarvis Ai Task Organizer
+# Jarvis Ai
 A Simple Web Application using different operators for Decision Making.
 - Basic Task 
 - Basic Calculation
