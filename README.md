@@ -2,6 +2,7 @@
 A Simple Web Application using different operators for Decision Making.
 - Basic Task 
 - Basic Calculation
+- To do Task
 
 ## Tech Stacks Used
 
