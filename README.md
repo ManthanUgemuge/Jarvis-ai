@@ -1,7 +1,7 @@
 # Jarvis Ai
 A Simple Web Application using different operators for Decision Making.
 - Basic Task 
-- Basic Calculation
+- Basic Calculator
 - To do Task
 
 ## Tech Stacks Used
@@ -12,7 +12,6 @@ A Simple Web Application using different operators for Decision Making.
 
 ## How to use Project
 - Download or clone the repository Website : 
-
 ```
 https://github.com/ManthanUgemuge/Jarvis_ai.git
 ```
