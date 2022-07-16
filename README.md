@@ -15,7 +15,7 @@ A Simple Web Application using different operators for Decision Making.
 ```
 https://github.com/ManthanUgemuge/Jarvis_ai.git
 ```
-- Run Directly - [JarvisAi](https://manthanugemuge.github.io/Jarvis_ai/) // [Download](https://github.com/ManthanUgemuge/Jarvis_ai/archive/refs/heads/main.zip)
+- Run Directly - [Jarvis Ai](https://manthanugemuge.github.io/Jarvis_ai/) // [Download](https://github.com/ManthanUgemuge/Jarvis_ai/archive/refs/heads/main.zip)
 
 ## Contributing
 
