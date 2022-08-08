@@ -13,7 +13,7 @@ A Simple Web Application using different operators for Decision Making.
 ## How to use Project
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/Jarvis_ai.git
+https://github.com/ManthanUgemuge/Jarvis-ai.git
 ```
 - Run Directly - [Jarvis Ai](https://manthanugemuge.github.io/Jarvis_ai/) // [Download](https://github.com/ManthanUgemuge/Jarvis_ai/archive/refs/heads/main.zip)
 
