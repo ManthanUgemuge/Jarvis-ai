@@ -17,6 +17,9 @@ https://github.com/ManthanUgemuge/Jarvis-ai.git
 ```
 - Run Directly - [Jarvis Ai](https://manthanugemuge.github.io/Jarvis-ai/) // [Download](https://github.com/ManthanUgemuge/Jarvis-ai/archive/refs/heads/main.zip)
 
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
+
 ## Contributing
 
 Pull requests are welcome, feel free to ```fork``` this repo.
